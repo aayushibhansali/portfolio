@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;0,600;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;0,600;1,200&family=Source+Code+Pro:ital,wght@0,400;0,500;0,700;1,600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.sidebar{
+    background-color: brown;
+    width: 300px;
+    height: 100vh;
+    font-family:'Fira Sans', sans-serif;
+
+}
+.sidebar nav{
+    padding: 35px;
+
+} 
+.sidebar nav li{
+    list-style: none;
+    font-size: 25px;
+    padding: 23px 0;
+}
+.sidebar nav li a{
+    text-decoration: none;
+    color: burlywood;
+}
+.main{
+    background-color: burlywood;
+    width: 85vw;
+}
+.container{
+    display: flex;
+}
+.infocontainer{
+    background-color: beige;
+    height: 63vh;
+    width: 75vw;
+    margin: 140px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.devpic img{
+    width: 350px;
+    height: 63vh;
+}
+.devinfo{
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 20px;
+    flex-direction: column;
+    font-family: 'Source Code Pro', monospace ;
+    text-align: center;
+
+}
+.hello{
+font-size: 80px;
+
+}
+.name{
+font-size: 70px;
+font-weight: bold;
+font-family:'Fira Sans', sans-serif;
+
+}
+.about{
+    font-size: 30px;
+    margin-bottom: 20px;
+
+}
+.buttons{
+    margin-top: 35px;
+}
+.buttons button{
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: beige;
+    background-color: brown;
+    font-size: 21px;
+    font-weight: bold;
+    margin: 0 3px;
+    cursor: pointer;
+
+}
+.buttons button:hover{
+    color: brown;
+    background-color: beige;
+}
+.contactform{
+    font-family:'Fira Sans', sans-serif;
+    padding: 0 40px;
+    padding-top: 200px;
+    align-items: center;
+    
+
+}
+.contactform h1{
+    font-family: 'Source Code Pro', monospace ;
+    text-align: left;
+}
+.contactform form div{
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    
+
+}
+.contactform form div input{
+    border-radius: 5px;
+    padding: 3px;
+    margin: 6px 0 0 0;
+}
+.contactform button{
+    padding: 8px 12px;
+    border-radius: 20px;
+    color: beige;
+    background-color: brown;
+    font-size: 21px;
+    font-weight: bold;
+    margin: 0 3px;
+    cursor: pointer;
+}
+.contactform button:hover{
+    color: brown;
+    background-color: beige;
+    
+}
+.projectcontainer{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.project {
+    max-width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+.project img {
+    max-width: 100%;
+    height: auto;
+}
+
+.project h2 {
+    margin-top: 10px;
+}
+
+.project p {
+    margin: 10px 0;
+}
+
+.project a {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: brown;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.project a:hover {
+    background-color: beige;
+}
+.containerpub {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    flex-wrap: wrap;
+}
+
+.publication {
+    max-width: 300px;
+    margin: 20px;
+    padding: 50px;
+    border: 1px solid brown;
+    text-align: center;
+    background-color: beige;
+
+}
+
+.publication h2 {
+    margin-top: 10px;
+}
+
+.publication p {
+    margin: 10px 0;
+}
+
+.publication a {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color:brown;
+    color: black;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.publication a:hover {
+    background-color: beige;
+}
+.containeredu {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    flex-wrap: wrap;
+}
+
+.education {
+    max-width: 300px;
+    margin: 20px;
+    padding: 80px;
+    border: 1px solid brown;
+    text-align: center;
+    background-color: beige;
+}
+
+.education h2 {
+    margin-top: 10px;
+}
+
+.education p {
+    margin: 10px 0;
+}
