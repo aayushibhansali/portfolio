@@ -220,8 +220,8 @@ export default function App() {
                       </h3>
                     </div>
                     <p className="text-sm text-[#cbd5e1] leading-relaxed bg-[#0e121a] border border-[#1b2333] p-4 rounded-xl">
-                      Frontend / Product Engineer with 2 years of experience
-                      building enterprise-scale platforms at{" "}
+                      Frontend Engineer with 2 years of experience building
+                      enterprise-scale platforms at{" "}
                       <strong className="text-white">L&T Finance</strong> —
                       architected a no-code analytics dashboard adopted by 30+
                       teams and C-suite, built a full-stack Flutter app deployed
