@@ -238,10 +238,7 @@ export default function App() {
                       where I do my best work. I turn complex things into
                       simple, beautiful interfaces. I sweat the details that
                       make the difference between a product people tolerate and
-                      one they actually enjoy using. Currently building side
-                      projects with React + Gemini API and looking for a
-                      frontend role where I can keep doing my best work. Based
-                      in Bangalore · Open to frontend roles · Remote friendly
+                      one they actually enjoy using.
                     </p>
                   </div>
                 )}
