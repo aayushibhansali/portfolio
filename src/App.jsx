@@ -220,15 +220,28 @@ export default function App() {
                       </h3>
                     </div>
                     <p className="text-sm text-[#cbd5e1] leading-relaxed bg-[#0e121a] border border-[#1b2333] p-4 rounded-xl">
-                      Frontend Engineer with 2 years of experience building
-                      enterprise-scale platforms at{" "}
-                      <strong className="text-white">L&T Finance</strong> —
-                      architected a no-code analytics dashboard adopted by 30+
-                      teams and C-suite, built a full-stack Flutter app deployed
-                      across 150+ branches, and engineered internal tools
-                      spanning frontend, backend, and real-time API
-                      integrations. Skilled in JavaScript, React.js, Next.js,
-                      Flutter, Node.js, and TypeScript.
+                      Hi, I'm Aayushi — a frontend engineer based in Bangalore
+                      who got into this field because I loved the instant
+                      feedback. Write code, see something beautiful appear. Two
+                      years later I'm still chasing that feeling. I work
+                      primarily in React.js, Next.js and Flutter, and I care
+                      deeply about the details most people skip — the hover
+                      state, the loading skeleton, the empty state message that
+                      makes a user feel understood instead of abandoned. I
+                      believe great UI is never an accident. It's craft. In the
+                      last 2 years I've shipped interfaces that real teams
+                      depend on — a no-code analytics dashboard used daily by
+                      30+ teams and C-suite, a full-stack Flutter app deployed
+                      across 150+ branches, real-time monitoring systems, and
+                      internal tools that replaced manual processes entirely.
+                      I've worked across the stack when needed, but frontend is
+                      where I do my best work. I turn complex things into
+                      simple, beautiful interfaces. I sweat the details that
+                      make the difference between a product people tolerate and
+                      one they actually enjoy using. Currently building side
+                      projects with React + Gemini API and looking for a
+                      frontend role where I can keep doing my best work. Based
+                      in Bangalore · Open to frontend roles · Remote friendly
                     </p>
                   </div>
                 )}
